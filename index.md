@@ -16,8 +16,7 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 
 4.	**T. Markovich**, D. Andelman, and R. Podgornik, *Charge regulation: a generalized boundary condition?*, EPL, **113**, 26004 (2016); http://arxiv.org/abs/1510.05442
 
-3.	**T. Markovich**, D. Andelman, and R. Podgornik, *Charged Membranes*, Invited chapter in Handbook of Lipid Membranes, edited by C. Safinya and J. Raedler. Francis & Taylor, to be published (accepted for publication, 2015);
-https://arxiv.org/abs/1603.09451 
+3.	**T. Markovich**, D. Andelman, and R. Podgornik, *Charged Membranes: Poisson-Boltzmann theory, DLVO paradigm and beyond*, Invited chapter in Handbook of Lipid Membranes, edited by C. Safinya and J. Raedler. Francis & Taylor, to be published (accepted for publication, 2015); https://arxiv.org/abs/1603.09451 
 
 2.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte interfaces: Ionic specificity within a field-theory approach*, J. Chem. Phys., **142**, 044702 (2015); http://arxiv.org/abs/1411.5222
 
