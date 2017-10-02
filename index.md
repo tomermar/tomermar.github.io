@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Research
 
-You can use the [editor on GitHub](https://github.com/tomermar/tomermar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a member of the Department of Applied Mathematics and Theoretical Physics, in the Soft Matter group headed by Prof. Michael E. Cates. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in the nonequilibrium statistical mechanics of active matter systems, including self-propelled particles and living cells. My main focus is active gels theories and specifically understanding their departure from equlibrium and the breakage of time-reversal-symmetry.
 
-### Markdown
+Other interests: Statistical mechanics of complex charged fluids, electrostatics of ionic solutions, ionic specific effects and their interplay with ion-ion correlations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
+1.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of acids – an extension of the Hofmeister series*, Langmuir **33**, 34 (2016); http://arxiv.org/abs/1608.07797 
+2.	**T. Markovich**, D. Andelman, and H. Orland, *Ionic profiles close to dielectric discontinuities: Specific ion-surface interactions*, J. Chem. Phys., **145**, 134704 (2016); http://arxiv.org/abs/1607.06375 
+3.	**T. Markovich**, D. Andelman, and R. Podgornik, *Charge regulation: a generalized boundary condition?*, EPL, **113**, 26004 (2016); http://arxiv.org/abs/1510.05442
+4.	**T. Markovich**, D. Andelman, and R. Podgornik, **Charged Membranes**, Invited chapter in Handbook of Lipid Membranes, edited by C. Safinya and J. Raedler. Francis & Taylor, to be published (accepted for publication, 2015);
+www.tau.ac.il/~andelman/reprints/175_Memb_Safinya_preprnt_2015.pdf 
+5.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte interfaces: Ionic specificity within a field-theory approach*, J. Chem. Phys., **142**, 044702 (2015); http://arxiv.org/abs/1411.5222
+6.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte solutions: A self-consistent theory*, EPL, **106**, 16002 (2014); http://arxiv.org/abs/1305.3142 
+7.	R. M. Adar, **T. Markovich**, and D. Andelman, *Bjerrum Pairs in Ionic Solutions: a Poisson-Boltzmann Approach*, J. Chem. Phys., **146**, 194904 (2017); https://arxiv.org/abs/1702.04853 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
+Blavatnik Postdoctoral Fellow
+Group of Prof. Michael E. Cates 
 
-### Jekyll Themes
+DAMTP, Centre for Mathematical Sciences 
+University of Cambridge 
+Wilberforce Road 
+CB3 0WA, United Kingdom 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tomermar/tomermar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++44 (0)1223 760453
+tm598r@damtp.cam.ac.uk
