@@ -20,13 +20,8 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 
 2.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte interfaces: Ionic specificity within a field-theory approach*, J. Chem. Phys., **142**, 044702 (2015); http://arxiv.org/abs/1411.5222
 
-1.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte solutions: A self-consistent theory*, EPL, **106**, 16002 (2014); http://arxiv.org/abs/1305.3142 
+1.	**T. Markovich**, D. Andelman, and R. Podgornik, *Surface tension of electrolyte solutions: A self-consistent theory*, EPL, **106**, 16002 (2014); [Link](http://arxiv.org/abs/1305.3142)
 
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ## Contact
 Blavatnik Postdoctoral Fellow
