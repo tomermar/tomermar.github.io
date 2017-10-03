@@ -29,10 +29,10 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 Blavatnik Postdoctoral Fellow
 Group of Prof. Michael E. Cates 
 
-DAMTP, Centre for Mathematical Sciences 
-University of Cambridge 
+DAMTP, Centre for Mathematical Sciences
+University of Cambridge
 Wilberforce Road 
 CB3 0WA, United Kingdom 
 
 +44 (0)1223 760453
-tm598r@damtp.cam.ac.uk
+tm598@damtp.cam.ac.uk
