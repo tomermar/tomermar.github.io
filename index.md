@@ -20,9 +20,9 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 
 6.	T. Markovich, D. Andelman, and R. Podgornik, *Charged Membranes: Poisson-Boltzmann theory, DLVO paradigm and beyond*, Invited chapter in Handbook of Lipid Membranes, edited by C. Safinya and J. Raedler. Francis & Taylor, to be published (accepted for publication, 2015)   [arXiv](https://arxiv.org/abs/1603.09451)
 
-7.	T. Markovich, D. Andelman, and R. Podgornik, [*Surface tension of electrolyte interfaces: Ionic specificity within a field-theory approach*]((http://dx.doi.org/10.1063/1.4905954), J. Chem. Phys., **142**, 044702 (2015)    [arXiv](http://arxiv.org/abs/1411.5222)
+7.	T. Markovich, D. Andelman, and R. Podgornik, [*Surface tension of electrolyte interfaces: Ionic specificity within a field-theory approach*](http://dx.doi.org/10.1063/1.4905954), J. Chem. Phys., **142**, 044702 (2015)    [arXiv](http://arxiv.org/abs/1411.5222)
 
-8.	T. Markovich, D. Andelman, and R. Podgornik, [*Surface tension of electrolyte solutions: A self-consistent theory*](((http://dx.doi.org/10.1209/0295-5075/106/16002), EPL, **106**, 16002 (2014)   [arXiv](http://arxiv.org/abs/1305.3142)
+8.	T. Markovich, D. Andelman, and R. Podgornik, [*Surface tension of electrolyte solutions: A self-consistent theory*](http://dx.doi.org/10.1209/0295-5075/106/16002), EPL, **106**, 16002 (2014)   [arXiv](http://arxiv.org/abs/1305.3142)
 
 
 ## Contact
