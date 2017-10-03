@@ -26,6 +26,7 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 
 
 ## Contact
+
 Blavatnik Postdoctoral Fellow  
 Group of Prof. Michael E. Cates 
 
