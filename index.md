@@ -8,7 +8,7 @@ Other interests: Statistical mechanics of complex charged fluids, electrostatics
 
 ## Publications
 
-1. T. Markovich, D. Andelman, and R. Podgornik, [Complex Fluids with Mobile Charge-Regulated Macro-Ions*, preprint (2017)    [arXiv](https://arxiv.org/abs/1708.06921)
+1. T. Markovich, D. Andelman, and R. Podgornik, *Complex Fluids with Mobile Charge-Regulated Macro-Ions*, preprint (2017)   [arXiv](https://arxiv.org/abs/1708.06921)
 
 2.	R. M. Adar, T. Markovich, and D. Andelman, [*Bjerrum Pairs in Ionic Solutions: a Poisson-Boltzmann Approach*](http://dx.doi.org/10.1063/1.4982885), J. Chem. Phys., **146**, 194904 (2017)   [arXiv](https://arxiv.org/abs/1702.04853 )
 
