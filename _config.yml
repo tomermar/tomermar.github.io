@@ -1,2 +1,11 @@
 theme: jekyll-theme-slate
 title: Tomer Markovich
+
+tagline:          'Homepage'
+url:              http://tomermar.github.io
+baseurl:          /
+
+author:
+  name:           'Tomer Markovich'
+  url:            http://tomermar.github.io
+
