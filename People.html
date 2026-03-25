@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>People | Tomer Markovich Group</title>
+    <link rel="stylesheet" href="style.css"> <!-- Your existing CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header nav ul {
+            list-style: none;
+            display: flex;
+            background-color: #333;
+            padding: 0;
+            margin: 0;
+        }
+        header nav ul li {
+            margin: 0;
+        }
+        header nav ul li a {
+            display: block;
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        header nav ul li a.active,
+        header nav ul li a:hover {
+            background-color: #555;
+        }
+        main {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 8px;
+            margin-bottom: 20px;
+        }
+        .members-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .member-card {
+            background-color: #f5f5f5;
+            border-radius: 10px;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            flex: 1 1 calc(45% - 20px);
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            min-width: 250px;
+        }
+        .member-photo {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background-color: #0077cc;
+            color: white;
+            font-size: 28px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        .member-info {
+            flex-grow: 1;
+        }
+        .member-info strong {
+            display: block;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            margin-top: 40px;
+        }
+        @media (max-width: 600px) {
+            .member-card {
+                flex: 1 1 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Publications.html">Publications</a></li>
+                <li><a href="People.html" class="active">People</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Group Members</h2>
+            <div class="members-container">
+                <div class="member-card">
+                    <div class="member-photo">TM</div>
+                    <div class="member-info">
+                        <strong>Dr. Tomer Markovich</strong>
+                        Principal Investigator
+                    </div>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">CL</div>
+                    <div class="member-info">
+                        <strong>Dr. Cheng-Tai Lee</strong>
+                        Postdoctoral Fellow
+                    </div>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">SM</div>
+                    <div class="member-info">
+                        <strong>Dr. Soheli Mukherejee</strong>
+                        Postdoctoral Fellow
+                    </div>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">SR</div>
+                    <div class="member-info">
+                        <strong>Shachaf Rotem</strong>
+                        PhD Student (Physics)
+                    </div>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">OA</div>
+                    <div class="member-info">
+                        <strong>Osher Arbib</strong>
+                        PhD Student (Mechanical Engineering)
+                    </div>
+                </div>
+                <div class="member-card">
+                    <div class="member-photo">JG</div>
+                    <div class="member-info">
+                        <strong>Johnathan Gabay</strong>
+                        MSc Student (Physics)
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Former Members</h2>
+            <div class="members-container">
+                <div class="member-card">
+                    <div class="member-photo">AS</div>
+                    <div class="member-info">
+                        <strong>Dr. Artur Soriani</strong>
+                        Postdoctoral Fellow 2022–2025<br>
+                        Current position: Postdoctoral Fellow, University of Luxembourg
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Tomer Markovich Group</p>
+    </footer>
+</body>
+</html>
